@@ -1,4 +1,4 @@
-#Conqay's Game of Life from https://automatetheboringstuff.com/2e/chapter4/ with a few modifications
+#Conway's Game of Life from https://automatetheboringstuff.com/2e/chapter4/ with a few modifications
 #A hash represented a living square and an empty space represents a dead square
 #If a living square has two or three living neighbors, it survives
 #If a dead square has three living neighbors, it comes alive
